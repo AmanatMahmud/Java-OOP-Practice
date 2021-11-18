@@ -1,4 +1,4 @@
-# Java-OOP-Practice-
+# Java-OOP-Practice
 I have written some classes to show as the example for the following topics:  
 1) Class, Object 
 2) Constructor Method, 'this' Keyword 
